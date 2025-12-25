@@ -1,0 +1,4 @@
+tax=sal*0.10 if 10 percnt;
+i % 10 se last ka digit nikala.
+rem*10 se last me 0 add hota hai.. 
+    if 6*10 so it will be (Old value)+60
