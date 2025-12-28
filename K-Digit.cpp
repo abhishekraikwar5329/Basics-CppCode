@@ -1,3 +1,4 @@
+//K-Digit.cpp
 #include<iostream>
 using namespace std;
 int checkArmstrong(int n);
