@@ -12,7 +12,7 @@ int main() {
     cout<<"Enter Number to Increment: ";
     cin>>num;
 
-    cout<<"Before Increment num: "<<num;
+    cout<<"Before Increment num: "<<num<<endl<<endl;
     increment(num);
 
     cout<<"After Increment num: "<<num;
